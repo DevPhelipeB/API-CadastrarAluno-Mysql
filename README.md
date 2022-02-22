@@ -15,5 +15,6 @@
 
 ### OU HEROKU LINKS
 
+Repositório da API, que está no heroku - https://github.com/DevPhelipeB/API-HostDBHeroku-Aluno [ENTRE]
 - https://heroku-api-aluno.herokuapp.com/
 - https://git.heroku.com/heroku-api-aluno.git 
